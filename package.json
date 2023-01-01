@@ -6,11 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js",
-    "dev": " nodemon app.js -e js ",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
+    "dev": " nodemon app.js -e js "
   },
   "engines": {
-    "node": "16.17.0"
+    "node": "16.x",
+    "npm": "8.15.0"
   },
   "keywords": [],
   "author": "",
