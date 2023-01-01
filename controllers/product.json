@@ -1,0 +1,738 @@
+{
+  "Dtype": "mobile",
+  "deviceName": "Nokia",
+  "model": [
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592748/nokia/f62b505b-3c87_m5ytkt.jpg",
+      "modelno": "2",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2200"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2200"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1300"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1400"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1200"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "200"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/6cb13a01-0877_eiqnfd.jpg",
+      "modelno": "5",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2700"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2700"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1600"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1600"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "500"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/6cb13a01-0877_eiqnfd.jpg",
+      "modelno": "5.1 Plus",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2300"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1000"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "500"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "200"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "200"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/csh-vspan49r-75zl_tkbsnz.png",
+      "modelno": "6",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2900"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1200"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2900"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "900"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "900"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "900"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "900"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "500"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "300"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/csh-vspan49r-75zl_tkbsnz.png",
+      "modelno": "6.1",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2500"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2500"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1100"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "300"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/csh-sgvbynm4-glmc_xsw2fe.png",
+      "modelno": "6.1 Plus",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "3400"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "3400"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1100"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "300"
+        }
+      ]
+    },
+    {
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/2Zdy5cK7RAwUuqXrBvqIwb/744f515f4299815429f3700b64f60062/Nokia_7_Plus_PDS-SPECS-mobile.png",
+      "modelno": "7",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "4700"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "2900"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1100"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1100"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250"
+        }
+      ]
+    },
+    {
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/2Zdy5cK7RAwUuqXrBvqIwb/744f515f4299815429f3700b64f60062/Nokia_7_Plus_PDS-SPECS-mobile.png",
+      "modelno": "7Plus",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "4700"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "2300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "4700"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "2200"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "2200"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "300"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/fe70f7d9-4b75_qsugem.jpg",
+      "modelno": "8",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "3000"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "3000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1600"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1600"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1600"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "1400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "300"
+        }
+      ]
+    },
+    {
+      "image": "https://m.xcite.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/n/o/nokia_smartphones-front_back_nokia_8_sirocco_result.jpg",
+      "modelno": "8 sirocco",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "14500"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1300"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "7000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1000"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "500"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250"
+        }
+      ]
+    },
+    {
+      "image": "https://res.cloudinary.com/realbackme/image/upload/v1628592749/nokia/fe70f7d9-4b75_qsugem.jpg",
+      "modelno": "8.1",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "4700"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "3000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1600"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1700"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1500"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "400"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "500"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250"
+        }
+      ]
+    },
+    {
+      "image": "https://images.ctfassets.net/wcfotm6rrl7u/57CuFPNJawN0FFhBCFCZHr/2c3258a5eaf061be73119d2136a0834e/nokia_8_1_PDS-SPECS-mobile-BLUE.png",
+      "modelno": "others",
+      "modedata": [
+        {
+          "productName": "mobile",
+          "name": "Touch/Lcd",
+          "price": "2000-5000"
+        },
+        {
+          "productName": "mobile",
+          "name": "battery",
+          "price": "1000-5000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Touchscreen/Glass",
+          "price": "1000-7000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Chargeport",
+          "price": "1000-4000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Loudspeaker",
+          "price": "1000-5000"
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": "1000-4000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Audiojack",
+          "price": "1000-4000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Phoneservicing",
+          "price": "200-2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "softwarediagnosis",
+          "price": "200-2000"
+        },
+        {
+          "productName": "mobile",
+          "name": "Deadphonediagnosis",
+          "price": "250-1000"
+        },
+        {
+          "productName": "mobile",
+          "name": "waterdiagnosis",
+          "price": "250-1000"
+        }
+      ]
+    }
+  ]
+}

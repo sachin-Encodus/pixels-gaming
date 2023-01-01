@@ -1,0 +1,601 @@
+{
+  "Cimage": "https://1000logos.net/wp-content/uploads/2018/09/Honor-logo.png",
+  "Dtype": "laptop",
+  "deviceName": "Honor",
+  "model": [
+    {
+      "image": "https://www.hihonor.com/content/dam/honor/global/product-list/laptop/honor-magicbook-x14/magicbook-x14-listimage-pc-grey.png",
+      "modelno": "MagicBook x 14",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.hihonor.com/content/dam/honor/global/product-list/laptop/honor-magicbook-pro/magicbook-pro-grey-listimage-pc.png",
+      "modelno": "MagicBook pro intel",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.hihonor.com/content/dam/honor/global/product-list/laptop/honor-magicbook-14-2021/magicbook-14-listimage-pc.png",
+      "modelno": "magicBook 15",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.hihonor.com/content/dam/honor/global/product-list/laptop/honor-magicbook-14-2021/magicbook-14-listimage-pc.png",
+      "modelno": "MagicBook 14 ",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20210107110320/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook Duo",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_VivoBook-S_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "VivoBook S",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_VivoBook-Flip/P_setting_xxx_0_90_end_185.png",
+      "modelno": "VivoBook Flip",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_Chromebook_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "Chromebook",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_Chromebook-Flip_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "Chromebook Flip",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    }
+  ]
+}

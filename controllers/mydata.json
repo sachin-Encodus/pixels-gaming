@@ -1,0 +1,641 @@
+
+
+{     "Dtype":"mobile",
+      "deviceName": "Asus",
+      "model": [
+        {
+            "modelno":"Max pro M1",
+            "modedata": [
+            {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 2599
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 1500
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 1900
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 1450
+            },
+           
+             {
+             
+              "productName": "mobile",
+              "name": "loud speaker",
+              "price": 1150
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 500
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "ear speaker",
+              "price": 1150
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 500
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 500
+            }
+          ]
+        },
+         {
+            "modelno":"Zenphone Max",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 3100
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 2000
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 3100
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 1050
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 800
+            },
+            
+            
+             {
+             
+              "productName": "mobile",
+              "name": "Audio jack",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 449
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 449
+            }
+           
+          ]
+        }
+        ,
+         {
+            "modelno":"Zenphone  6",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 3500
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 900
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 3500
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 650
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 800
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 720
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 600
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Audio jack",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "home button",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 149
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 249
+            }
+           
+          ]
+        }
+
+        ,
+         {
+            "modelno":"other",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": "1980 - 3000" 
+            },              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": "600 - 2000"
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": "1470 - 3400"
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": "500 - 1000"
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": "500 - 1200"
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": "650 - 1800"
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": "500 - 1300"
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "back panel",
+              "price": "650 - 1899 "
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": "149 - 500"
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": "249 - 500"
+            }
+           
+          ]
+        }
+,
+        {
+            "modelno":"Zenphone 4/5",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 1900
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 900
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 1900
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 650
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 800
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 720
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 600
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Audio jack",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "home button",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 149
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 249
+            }
+           
+          ]
+        }
+        
+
+,
+          {
+            "modelno":"Zenphone go",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 2600
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 900
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 2600
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 650
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 800
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 720
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 600
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Audio jack",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "home button",
+              "price": 650
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 149
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 249
+            }
+           
+          ]
+        }
+        
+
+,
+         {
+            "modelno":"iphone 11 pro max",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 26990
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 6500
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 26990
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 7550
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 500
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 450
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 5900
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "back panel",
+              "price": 9850
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 900
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 549
+            }
+           
+          ]
+        }
+,
+         {
+            "modelno":"iphone SE",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 2600
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price": 1400
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 2600
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 1350
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 500
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 1250
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Cabinet Or Frame",
+              "price": 1980
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Audio jack",
+              "price": 950
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 149
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "home button",
+              "price": 900
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 449
+            }
+           
+          ]
+        }
+       ,
+         {
+            "modelno":"Iphone XR",
+            "modedata": [
+               {
+             
+              "productName": "mobile",
+              "name": "Touch/Lcd",
+              "price": 9499
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "battery",
+              "price":3500
+            },
+              {
+             
+              "productName": "mobile",
+              "name": "Touchscreen/glass",
+              "price": 9400
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Charging",
+              "price": 6790
+            },
+           
+            {
+             
+              "productName": "mobile",
+              "name": "Loud speaker",
+              "price": 2500
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Ear speaker",
+              "price": 2450
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Micrphone",
+              "price": 1800
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Cabinet Or Frame",
+              "price": 7350
+            },
+             {
+             
+              "productName": "mobile",
+              "name": "Phone diognosis",
+              "price": 349
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "back panel",
+              "price": 6549
+            },
+            {
+             
+              "productName": "mobile",
+              "name": "Software diognosis",
+              "price": 349
+            }
+           
+          ]
+        }
+       
+      ]
+     
+    
+
+  
+}
+
+

@@ -1,0 +1,317 @@
+<html>
+
+<head>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 0%;
+            color: black
+        }
+
+
+        .agreement {
+            margin-top: 30%;
+            width: 70%;
+            position: relative;
+            margin: auto;
+            padding: 20px 10px;
+            height: 100%;
+        }
+
+        @media screen and (max-width: 576px) {
+
+            .agreement {
+
+                width: 100%;
+                position: relative;
+                left: 5px;
+                padding: 20px 5px;
+                height: 100%;
+            }
+        }
+
+        .realback-logo img {
+            max-width: 60px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+
+        .personal-info p {
+            font-size: 17px;
+            font-weight: bold;
+            margin-bottom: 5px;
+        }
+
+        .personal-info span {
+            font-size: 16px;
+            line-height: 1.3px;
+        }
+
+        .subject-msg {
+
+            top: 10px;
+        }
+
+        .subject-msg p {
+            font-size: 17px;
+            margin-bottom: 10px;
+
+        }
+
+        .subject-msg h4 {
+            font-size: 17px;
+            font-weight: bolder;
+        }
+
+        .subject-msg .details {
+
+            text-align: justify;
+            margin-top: 20px;
+            padding: 10px 0;
+            line-height: 1.9rem;
+        }
+
+        @media screen and (max-width: 576px) {
+            .subject-msg .details {
+
+                text-align: justify;
+                margin-top: 20px;
+                padding: 10px 0;
+                line-height: 1.9rem;
+            }
+
+        }
+
+        table {
+            width: 750px;
+            border-collapse: collapse;
+        }
+
+
+        /* Zebra striping */
+
+        tr:nth-of-type(odd) {
+            background: #eee;
+        }
+
+        th {
+            background: #3498db;
+            color: white;
+            font-weight: bold;
+        }
+
+        td,
+        th {
+            padding: 10px;
+            border: 1px solid #ccc;
+
+
+        }
+
+        @media only screen and (max-width: 760px),
+        (min-device-width: 768px) and (max-device-width: 1024px) {
+            table {
+                width: 100%;
+            }
+
+            table,
+            thead,
+            tbody,
+            th,
+            td,
+            tr {}
+
+            thead tr {
+                position: absolute;
+                top: -9999px;
+                left: -9999px;
+            }
+
+            tr {
+                border: 1px solid #ccc;
+            }
+
+            td {
+
+                border-bottom: 1px solid #eee;
+                position: relative;
+
+            }
+
+            /* td:before {
+		position: absolute;
+		top: 6px;
+		left: 6px;
+		width: 45%;
+		padding-right: 10px;
+		white-space: nowrap;
+		content: attr(data-column);
+		color: #000;
+		font-weight: bold;
+	} */
+        }
+
+        .other-desc {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        .other-desc .long_desc {
+            margin-top: 20px;
+            width: 84%;
+            text-align: justify;
+            font-size: 17px;
+            line-height: 1.5rem;
+        }
+
+        @media screen and (max-width: 576px) {
+            .other-desc .long_desc {
+                margin-top: 20px;
+                width: 98%;
+                text-align: justify;
+                font-size: 14px;
+                line-height: 1.5rem;
+            }
+
+        }
+
+        .other-desc h1 {
+            margin-top: 10px;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .company-details h2 {
+            font-size: 16px;
+            margin-top: 20px;
+            font-weight: bolder;
+        }
+
+        .company-details p {
+            font-size: 14px;
+        }
+
+        .sign-img {
+            max-width: 10%;
+            height: auto;
+        }
+
+        .contact {
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        .contact h3 {
+            margin-bottom: 10px;
+        }
+
+        .contact p {
+            font-size: 14px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+
+<body>
+
+
+    <div class="agreement">
+        <div class="realback-logo">
+            <img src="https://res.cloudinary.com/realback/image/upload/v1627899606/realback_jinjjo.png" alt="7" />
+        </div>
+
+        <div class="personal-info">
+            <p>Order Date: {{date}}</p>
+
+            <br />
+            <span>
+                {{name}}
+                <img style="width: 18px; height: 18px;"
+                    src="https://res.cloudinary.com/realback/image/upload/v1627900773/b1_x8lghx.png" alt="b" />
+                <br />
+                <br />
+                {{Address}} , {{pincode}} , {{city}} , {{state}} , {{country}}
+            </span>
+        </div>
+        <br />
+        <div class="subject-msg">
+            <p>Dear Sir/Madam,</p>
+            <h4>
+                Your have been submitted succefully with total price of Rs. {{totalPrice}}
+            </h4>
+            <p class="details">
+                with refrence to your application dated on {{date}} for
+                availing the order amount of
+                {{totalPrice}}
+                we are trying our best to solve your device problem as soon as posible
+                your device will be return to you within one day feel free for your device and private data
+                your data will not leak of any cost it our responsbility with our high security.
+
+            </p>
+             <img style="width: 250px;"
+                    src={{model}} alt="b" />
+        </div>
+        <div class="loan-desc">
+            <table>
+                <tbody>
+                    <tr>
+                        <td data-column="First Name">Company Name</td>
+                        <td data-column="Last Name">{{company}}</td>
+                    </tr>
+                    <tr>
+                        <td data-column="First Name">Device service</td>
+                        <td data-column="Last Name">
+                            {{data}}
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td data-column="First Name">Total amount</td>
+                        <td data-column="Last Name">{{totalPrice}}</td>
+                    </tr>
+
+
+                    <tr>
+                        <td data-column="First Name">
+                            Payment mode
+                        </td>
+                        <td data-column="Last Name">
+                            {{mode}}
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="other-desc">
+            <p>
+                * payable in the manner as mentioned in the agreement
+                to be executed
+            </p>
+
+            <h1>
+                We look forward to availing of the order and
+                assure you our best service.
+                <br />
+                <br />
+                Thanking You,
+            </h1>
+        </div>
+        <div class="company-details">
+            <h2>For Realback services private limited</h2>
+            <img src="https://res.cloudinary.com/realback/image/upload/v1627907057/9a4b5115e7fe50553de4db605d0889ef_c8oktg.png"
+                class="sign-img" />
+            <p>Authorized Signatory</p>
+        </div>
+        <div class="contact">
+            <h3>Contact Us</h3>
+            <p>Mobile No. +9174203189 ,+919340421225, +917747882423</p>
+            <p>Email: realback4c@gmail.com</p>
+            <a href="http://realback4c.herokuapp.com/">www.realback.com</a>
+        </div>
+
+    </div>
+
+</body>
+
+</html>

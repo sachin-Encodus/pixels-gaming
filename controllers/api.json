@@ -1,0 +1,2183 @@
+{
+  "Cimage": "https://res.cloudinary.com/realbackme/image/upload/v1628599565/asus_lcowhr.png",
+  "Dtype": "laptop",
+  "deviceName": "asus",
+  "model": [
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_ZenBook-Pro_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook Pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_ZenBook-S_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook S",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_ZenBook/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_ZenBook-Flip/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook Flip",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/ProductLine/20210107110320/P_setting_xxx_0_90_end_185.png",
+      "modelno": "ZenBook Duo",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_VivoBook-S_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "VivoBook S",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_VivoBook-Flip/P_setting_xxx_0_90_end_185.png",
+      "modelno": "VivoBook Flip",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_Chromebook_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "Chromebook",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "https://www.asus.com/media/Odin/Websites/global/SubSeries/global_Chromebook-Flip_1/P_setting_xxx_0_90_end_185.png",
+      "modelno": "Chromebook Flip",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "on/off",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen blink",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "screen broke",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "motherboard",
+          "price": 2800
+        },
+        {
+          "productName": "laptop",
+          "name": "Charging",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1200
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "keyboard",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "laptop servicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadlaptop diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "A57",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 900
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "standbyphone",
+          "price": 200
+        },
+        {
+          "productName": "laptop",
+          "name": "cabinetorframe",
+          "price": 900
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "A5s",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 2500
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "phonediagnosis",
+          "price": 300
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3400
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/glass",
+          "price": 3450
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "oppoA7",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 900
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "oppoA71",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2900
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2900
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "oppoA83",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "A92020",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F1Plus",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 4300
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1100
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 900
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F1s",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F11",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F11 pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Backpanel",
+          "price": 1300
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F17 pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 9200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 9200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2600
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 300
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 300
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F1 Plus",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F1 S",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F15",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 5000
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 5000
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2600
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 300
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F17Pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 9300
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 9300
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2600
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1500
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F1Plus",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F3",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F3Plus",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1300
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F4",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F5",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2700
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F7",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2900
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2900
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1200
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 900
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 1000
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F9",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2000
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1500
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1500
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 1600
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "F9 pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 3700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 1600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2600
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1500
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 1600
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "OppoF1",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 600
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 2200
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 700
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 700
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 900
+        },
+        {
+          "productName": "laptop",
+          "name": "Phone servicing",
+          "price": 150
+        },
+        {
+          "productName": "laptop",
+          "name": "software diagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphone diagnosis",
+          "price": 250
+        },
+        {
+          "productName": "laptop",
+          "name": "water diagnosis",
+          "price": 250
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "R17 Pro",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Backpanel",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "Phone servicing",
+          "price": 2600
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "Reno10X",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 9700
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 4300
+        },
+        {
+          "productName": "laptop",
+          "name": "Chargeport",
+          "price": 2300
+        },
+        {
+          "productName": "laptop",
+          "name": "Loudspeaker",
+          "price": 1500
+        },
+        {
+          "productName": "Earspeaker",
+          "name": "microphone",
+          "price": 1600
+        },
+        {
+          "productName": "laptop",
+          "name": "Audiojack",
+          "price": 1400
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 800
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 400
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 400
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 150
+        }
+      ]
+    },
+    {
+      "image": "",
+      "modelno": "Reno2Z",
+      "modedata": [
+        {
+          "productName": "laptop",
+          "name": "Touch/Lcd",
+          "price": 8700
+        },
+        {
+          "productName": "laptop",
+          "name": "battery",
+          "price": 3000
+        },
+        {
+          "productName": "laptop",
+          "name": "Touchscreen/Glass",
+          "price": 8700
+        },
+        {
+          "productName": "laptop",
+          "name": "Phoneservicing",
+          "price": 1700
+        },
+        {
+          "productName": "laptop",
+          "name": "softwarediagnosis",
+          "price": 1500
+        },
+        {
+          "productName": "laptop",
+          "name": "Deadphonediagnosis",
+          "price": 500
+        },
+        {
+          "productName": "laptop",
+          "name": "waterdiagnosis",
+          "price": 500
+        },
+        {
+          "productName": "laptop",
+          "name": "Backpanel",
+          "price": 5300
+        }
+      ]
+    }
+  ]
+}
