@@ -1433,7 +1433,7 @@ exports.getmodedata = async function (req, res) {
 
 exports.addGames = async function (req, res) {
   try {
-    console.log("###############", req.body);
+    // console.log("###############", req.body);
       const newGame = new Games(req.body)
       console.log(newGame);
 
