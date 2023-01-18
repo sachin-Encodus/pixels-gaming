@@ -1433,7 +1433,6 @@ exports.getmodedata = async function (req, res) {
 
 exports.addGames = async function (req, res) {
   try {
-    // console.log("###############", req.body);
       const newGame = new Games(req.body)
       console.log(newGame);
 
@@ -1478,24 +1477,24 @@ exports.getAllGames = async function (req, res) {
 
 
 // fetch game by cat
-exports.userData = async function (req, res) {
-  try {
-    await User.findOne({ _id: req.params.id }, (err, user) => {
-      if (user) {
-        console.log("==================>>>>>>>>>>>", user);
-        return res.status(201).send({
-          user,
-        });
-      } else {
-        console.log(err);
-      }
-      // console.log(user);
-    });
-  } catch (error) {
-    console.log("logout error");
-    res.status(500).json({ message: "you have already logged out sir !" });
-  }
-};
+// exports.userData = async function (req, res) {
+//   try {
+//     await User.findOne({ _id: req.params.id }, (err, user) => {
+//       if (user) {
+//         console.log("==================>>>>>>>>>>>", user);
+//         return res.status(201).send({
+//           user,
+//         });
+//       } else {
+//         console.log(err);
+//       }
+//       // console.log(user);
+//     });
+//   } catch (error) {
+//     console.log("logout error");
+//     res.status(500).json({ message: "you have already logged out sir !" });
+//   }
+// };
 
 
 
